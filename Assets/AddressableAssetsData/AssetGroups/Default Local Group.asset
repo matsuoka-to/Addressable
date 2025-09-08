@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: a24e2032f659b41428ed6c855a227915
+  m_SerializeEntries:
+  - m_GUID: 15ec14e5b409878459a708d32847779e
+    m_Address: faction_a
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 445cd1718f8643543943bb99908f8785
+    m_Address: faction_b
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 451cccb0eaa2acf43b799e06bb8af4e3
+    m_Address: ability_sword_double
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65a16ecc28bddba4388f3c2fb7d3989e
+    m_Address: faction_c
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d6287a9ac5070f45abd925aaaaf4090
+    m_Address: ability_slash
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f8e130d3d0c9c247b78be9804308002
+    m_Address: ability_fireball
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7983f142b364304a82bb8158574b413
+    m_Address: ability_lightning
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d96f6aabc43915a45a05d6df44c42f8d
+    m_Address: ability_shield
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e30d7baabfb292c4f9687033f726d8a4
+    m_Address: ability_sword
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6299e83740fe8f4fbe5130ebe788b53
+    m_Address: ability_background
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: db6e4f2cf373643a395e3cc23907f13c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c38e9f95b51b34c5bb188e7eb8ff6517, type: 2}
+    - {fileID: 11400000, guid: e09749f62f0cf423fbb8107d19c9e168, type: 2}

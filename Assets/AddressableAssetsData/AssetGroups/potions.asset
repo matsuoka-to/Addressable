@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: potions
+  m_EditorClassIdentifier: 
+  m_GroupName: potions
+  m_GUID: d340a9e47b91e4fa98c8f4cdb76efc47
+  m_SerializeEntries:
+  - m_GUID: 07692e1039df7ae46b1226229c02ebcb
+    m_Address: potion_orange_128
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d7ee07315cb395409fb7562dd175735
+    m_Address: potion_pink_128
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 224951dd833b90541b888691086e4871
+    m_Address: potion_blue_128
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8823224c3c4a814458277d2f18f40e0c
+    m_Address: potion_red_128
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8946eb1fbb36a734298d6625f05e0421
+    m_Address: potion_violet_128
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f83fc2a0058a85e44a45ac6562f264fa
+    m_Address: potion_green_128
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: db6e4f2cf373643a395e3cc23907f13c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1c1d59d8eab774d739409b069953fa07, type: 2}
+    - {fileID: 11400000, guid: d37654913b02c4d50a1cddd044c3be78, type: 2}
